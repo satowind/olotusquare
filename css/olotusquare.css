@@ -1,0 +1,327 @@
+html {  padding: 0px;
+	margin: 0px;
+}
+body{
+	background-color: black;
+	font-family:'Roboto', sans-serif, arial;
+	color: #FFF;
+	font-size:17px;
+	padding: 0px;
+	margin: 0px;
+	
+}
+
+#header{
+	width: 100%;
+	background-color: black;
+	position: fixed;
+
+}
+
+
+#svg {background-color: #fece1a;}
+
+header {
+	background-color: black;
+	height:60px;
+	display: inline-block;
+	width: 100%;
+}
+
+#pop{
+	border-radius: 100px;
+	color: #000;
+	background-color: #fece1a;
+	font-size: 30px;
+
+}
+
+#pop:hover {
+	border-radius: 100px;
+	color: #fece1a;
+	background-color: #000;
+	font-size: 30px;
+
+}
+
+nav {
+	background-color: black; 	 
+	float: right;
+	margin-right: 70px;
+	margin-top: 20px
+}
+
+.sato:hover {
+	border: 1px solid   #fece1a;
+}
+
+.sato .active {
+	border: 1px solid   #fece1a;
+}
+
+#logo{
+	margin-left: 70px;
+}
+
+.sato{
+	color: #fff;
+	text-transform:uppercase; 
+	text-decoration:none; 
+	padding: 10px;
+	margin: 5px;
+	border: 1px solid   black;
+}
+
+#first {
+	background-color: #fece1a;
+	height:170px;
+	padding: 130px 170px 200px 170px;
+	font-weight: bold;
+}
+#first h1, h4 {
+	color: black;
+}
+#first img {
+	float:right;
+}
+#first button {
+	background-color: #fece1a;
+	border: 1px solid black;
+	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.1), 0 6px 20px 0 rgba(0,0,0,0.1);
+	border-radius: 1px;
+	padding:  10px 20px;
+}
+
+#first button:hover {
+	background-color: black;
+	color: white;
+	border: 1px solid black;
+	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.1), 0 6px 20px 0 rgba(0,0,0,0.1);
+	border-radius: 1px;
+	padding:  10px 20px;
+}
+#first div{
+	width: 100%
+}
+
+#what{
+	  width: 100%
+}
+
+#what h1{
+	margin-top: 40px;
+	margin-bottom: 20px;
+	font-size: 2.5em;
+	font-weight: normal;
+}
+
+#what  p {
+	margin-bottom: 20px;
+	color : #fece1a;
+}
+
+body hr{
+	margin-right: 60px;
+	margin-left: 60px;
+}
+
+#training {
+	display: inline-block;
+}
+.train{
+	display: inline-block; 
+	width: 25% ; 
+	margin:20px; 
+	padding: 20px;
+}
+
+#training img{
+	border: 3px solid white; 
+	border-radius: 50%;
+}
+
+#training h3{
+	color:#fece1a;
+}
+
+.meet {
+	
+	
+	padding: 10px;
+}
+
+.cont {
+	display: inline-block;
+	width: 25% ;
+	 margin:20px; 
+	 padding: 20px;
+}
+
+.container {
+	border: 1px solid white; 
+	padding: 10px;
+}
+.member{
+	display:inline-block; 
+	width: 100%;
+	 border-bottom:  4px  solid #fece1a; 
+	 padding-bottom: 40px;
+}
+.member p{
+	background-color: white; 
+	color: #000; 
+	padding: 10px 10px 10px 10px ; 
+	width: 100%
+	font-size: 0.8em;
+}
+.member h1{
+	 margin: 0px;
+	 padding: 0px; 
+	 width: 100%; 
+	 color: #fece1a;"
+}
+
+.mem {
+	display: inline-block; 
+	width: 40%;
+}
+
+.memo{
+	display: inline-block; 
+	width: 40%;
+	 float: right; 
+	 background-color:#fff;
+	 color: black ;
+	  padding: 20px;
+	   height: 150px; 
+	   margin-right: 100px; 
+	   margin-top: 45px;"
+}
+
+.memo button{
+	width:150px; 
+	height: 40px; 
+	background-color: #fece1a; 
+	border: 1px solid #fece1a; 
+}
+
+.memo button:hover{
+	 width:150px;
+	  height: 40px; 
+	  background-color: black;
+	   border: 1px solid  black;
+	   color: #fece1a;
+}
+
+.memo input{
+	width:250px;
+	 height: 30px;
+	 border-radius: 5px;
+	 margin-bottom: 20px;
+}
+
+#wind{
+	background-image: url( ' images/banner.png' )  ;
+	margin-right: 60px;
+	margin-left: 60px;
+	height: 300px;
+}
+
+#wind h1{
+	margin-left: 60px; 
+}
+
+#wind p{
+	display: inline-block; 
+	margin-left: 60px;
+}
+
+#wind form{
+	float: right;
+	 display: inline; 
+	margin-right: 60px;
+}
+
+#wind input{
+	width:500px; 
+	height: 40px; 
+	border-radius: 5px; 
+}
+
+#wind button{
+	 width:150px;
+	  height: 40px; 
+	  background-color: #fece1a;
+	   border: 1px solid #fece1a;
+}
+
+#wind button:hover{
+	 width:150px;
+	  height: 40px; 
+	  background-color: white;
+	   border: 1px solid  white;
+	   color: #fece1a;
+}
+
+.four{
+	background-color: #fece1a; 
+	height: 200px; 
+	padding-top: 90px;
+	 margin-left: 60px;
+	  margin-right: 60px; 
+	  color: black;
+}
+
+.five{
+	background-color: rgba(255,255,255,0.8); 
+	height: 500px; 
+	margin-left: 60px; 
+	margin-right: 60px; 
+	padding-top: 20px; 
+}
+
+.five form {
+	padding:20px ;
+	 background-color: white;
+	 width:40%; 
+	 height: 420px;  
+}
+
+.six{
+	background-color:#fece1a;  
+	height: 400px; 
+	margin-left: 60px; 
+	margin-right: 60px; 
+	padding-top: 120px ;
+	font-weight: normal;
+}
+
+#button{
+	border :3px solid white; 
+	position: fixed; 
+	bottom: 25px; 
+	right: 20px;
+	width: 40px;
+	height: 20px; 
+	padding-bottom: 20px;
+	border-radius: 10px;
+	background-color: #fece1a; 
+}
+
+
+footer {
+	background-color: black;
+	padding-top: 10px;
+	padding-bottom: 40px;
+	text-align:  center;
+	font-size: 1.2em;
+}
+
+footer a{
+	color: yellow;
+	text-decoration: none;
+}
+
+footer a:hover{
+	text-decoration:underline;
+}

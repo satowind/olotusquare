@@ -1,0 +1,27 @@
+{
+  "name": "popicons",
+  "description": "Web icon font with customized Nigerian icons",
+  "main": "popicons.min.css",
+  "keywords": [
+    "popicons",
+    "vectors",
+    "icons",
+    "webfont",
+    "afro-icons",
+    "nigerian",
+    "icons"
+  ],
+  "authors": [
+    "Richard Ekwonye <ekwonyenoob@gmail.com>",
+    "Chinomso Azuamairo <mario.nomso@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "http://popicons.ng",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
